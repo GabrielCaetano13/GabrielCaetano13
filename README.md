@@ -1,44 +1,47 @@
-<h1 align="center"> NLW Copa </h1>
+<h1 align="center"> Sobre mim </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+  <img alt="MyPhoto" src="https://avatars.githubusercontent.com/u/108498310?s=400&u=794461187c32cb4f427f2ed9ebb8ae7b6454219c&v=4" width="50%" style="border-radius: 50%">
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+Meu nome é Gabriel, tenho 20 anos, estou cursando análise e desenvolvimento de sistemas, comecei o curso no ano de 2022, 
+</p>
+
+<p align="center">
+  <a href="#-aprendizado">Meu aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-redes">Redes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="Calendário da copa" src="./.github/preview.png" width="100%">
-</p>
+## 🚀 Meu Aprendizado
 
-## 🚀 Tecnologias
+Tecnologias que aprendi/estou aprendendo:
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
+- HTML
+- CSS
+- Python
+- SQL
+- PHP
+- Figma
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
+## 💻 Projetos
 
-O calendário da copa é um projeto que mostra os jogos da Copa de 2022.
+- https://github.com/GabrielCaetano13/NLW-Rocketseat
 
-## 🔖 Layout
+- https://github.com/GabrielCaetano13/explorer-lab-01
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/R7bO4589doWAjcKxt8fC5m/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+- https://github.com/GabrielCaetano13/nlw-copa
 
-## :memo: Licença
+## 🌐 Redes
 
-Esse projeto está sob a licença MIT.
+- [LinkedIn](https://www.linkedin.com/in/gabriel-de-paula-caetano-531861240/)
 
----
+- [Instagram](https://www.instagram.com/gdepaulacaetano/)
+
+- [Email](gabrielcaetanolinkedin@gmail.com)

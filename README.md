@@ -21,11 +21,13 @@ Tecnologias que aprendi/estou aprendendo:
 
 ## 💻 Projetos
 
-- https://github.com/GabrielCaetano13/NLW-Rocketseat
+- Jogos e Lives: https://gabrielcaetanonlwrocketseat.vercel.app/
 
-- https://github.com/GabrielCaetano13/explorer-lab-01
+- Cadastro de cartão: https://gabrielcaetano-explorer-lab-01.vercel.app/
 
-- https://github.com/GabrielCaetano13/nlw-copa
+- Calendário da copa: https://gabrielcaetano-nlw-copa.vercel.app/
+
+- Calculadora: https://gabrielcaetanocalculadora.vercel.app/
 
 ## 🌐 Redes
 

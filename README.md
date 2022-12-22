@@ -1,7 +1,7 @@
 <h1 align="center"> Sobre mim </h1>
 
 <p align="center">
-Meu nome é Gabriel, tenho 20 anos, estou cursando análise e desenvolvimento de sistemas, comecei o curso no ano de 2022, 
+Meu nome é Gabriel, tenho 20 anos, comecei no ano de 2022 o curso de Análise e Desenvolvimento de Sistemas
 </p>
 
 <br>
@@ -12,11 +12,11 @@ Tecnologias que aprendi/estou aprendendo:
 
 - HTML
 - CSS
-- Python
-- SQL
-- PHP
-- Figma
 - JavaScript
+- PHP
+- SQl
+- Python
+- Figma
 - Git e Github
 
 ## 💻 Projetos

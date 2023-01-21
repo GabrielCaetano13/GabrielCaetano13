@@ -1,8 +1,10 @@
 ## Bem-vindo(a) ao meu perfil
 <p>Comecei no ano de 2022 o curso de Análise e Desenvolvimento de Sistemas, também busco conhecimento por fora em diversos sites, estou procurando minha primeira vaga, no momento estou focado em desenvolvimento web Front-End.</p>
+
 <div>
    <a href="https://github.com/GabrielCaetano13">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaetano13&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielcaetano13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ### 🚀 Tecnologias

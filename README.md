@@ -27,6 +27,9 @@
    - Cadastro de cartão: https://gabrielcaetano-explorer-lab-01.vercel.app/
    - Calendário da copa: https://gabrielcaetano-nlw-copa.vercel.app/
    - Calculadora: https://gabrielcaetanocalculadora.vercel.app/
+   - Filme Arremessando Alto: https://gabrielcaetano-arremessando-alto.vercel.app/
+   - Hábitos: https://gabrielcaetano-habits.vercel.app/
+   - Desafio Frontend Mentor: https://gabrielcaetano-qr-code-component.vercel.app/
    
 ### 🌐 Redes 
 <div> 

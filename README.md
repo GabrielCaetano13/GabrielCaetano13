@@ -21,15 +21,16 @@
   <img align="center" title="GitHub" alt="GitHub" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 </div>
  
-### 💻 Portifólio
-
-   - Jogos e lives de entretenimento: https://gabrielcaetanonlwrocketseat.vercel.app/
-   - Cadastro de cartão: https://gabrielcaetano-explorer-lab-01.vercel.app/
-   - Calendário da copa: https://gabrielcaetano-nlw-copa.vercel.app/
+### 💻 Portifólio: https://gabrielcaetano-portifolio.vercel.app/
+   
    - Calculadora: https://gabrielcaetanocalculadora.vercel.app/
-   - Filme Arremessando Alto: https://gabrielcaetano-arremessando-alto.vercel.app/
+   - Gerador de senha: https://gabrielcaetano-gerador-de-senha.vercel.app/
+   - Cadastro de cartão: https://gabrielcaetano-explorer-lab-01.vercel.app/
    - Hábitos: https://gabrielcaetano-habits.vercel.app/
+   - Filme Arremessando Alto: https://gabrielcaetano-arremessando-alto.vercel.app/
+   - Jogos e lives de entretenimento: https://gabrielcaetanonlwrocketseat.vercel.app/
    - Desafio Frontend Mentor: https://gabrielcaetano-qr-code-component.vercel.app/
+   - Calendário da copa: https://gabrielcaetano-nlw-copa.vercel.app/
    
 ### 🌐 Redes 
 <div> 

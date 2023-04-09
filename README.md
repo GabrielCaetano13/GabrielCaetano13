@@ -1,43 +1,68 @@
-## Bem-vindo(a) ao meu perfil
-<p>Comecei no ano de 2022 o curso de Análise e Desenvolvimento de Sistemas, busco conhecimento por fora em diversos sites, estou procurando minha primeira vaga, no momento estou focado em desenvolvimento web Front-End.</p>
+<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja bem vindo(a) ao meu perfil</h1>
 
-<div>
-   <a href="https://github.com/GabrielCaetano13">
-      <img class="analyct" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaetano13&layout=compact&langs_count=6&theme=tokyonight"/>
-   </a>
-</div>
+- 🔥 Desenvolvedor Web
 
-### 🚀 Tecnologias
-<div style="display: inline_block">
-  <b>Tenho conhecimento base em: </b><br><br>
-  <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="PHP" alt="PHP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" title="MySql" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" title="Python" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" title="GitHub" alt="GitHub" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-</div>
- 
-### 💻 Portifólio: https://gabrielcaetano-portifolio.vercel.app/
+- 🔭 Cursando o 3° período de Análise e Desenvolvimento de sistemas
+
+<br>
+
+## 🚀 Tecnologias
+  ### Front-End: <br>
+  <div style="display: inline_block">
+     <img align="center" title="HTML" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" title="CSS" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          <img align="center" title="Sass" alt="Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+     <img align="center" title="Bootstrap" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+     <img align="center" title="JavaScript" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" title="Figma" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  </div>
+  
+  ### Back-End: <br>
+  <div style="display: inline_block">
+     <img align="center" title="PHP" alt="PHP" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+     <img align="center" title="MySql" alt="MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+     <img align="center" title="Python" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </div>
+  
+  ### Versionamento: <br>
+  <div style="display: inline_block">
+     <img align="center" title="Git" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+     <img align="center" title="GitHub" alt="GitHub" height="50"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  </div>
+
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="525em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaetano13&show_icons=true&theme=vision-friendly-dark" alt="gabriel's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaetano13&layout=compact&theme=vision-friendly-dark" alt="gabriel's most languages"/>
+</p>
+
+<br>
+
+### 💻 [Portifólio](https://gabrielcaetano-portifolio.vercel.app/)
+   ## Conheça alguns exercicios:
    
-   - Cadastro de animais e pesagens: https://gabrielcaetano.000webhostapp.com/index.php 
-   - Calculadora: https://gabrielcaetanocalculadora.vercel.app/
-   - Gerador de senha: https://gabrielcaetano-gerador-de-senha.vercel.app/
-   - Cadastro de cartão: https://gabrielcaetano-explorer-lab-01.vercel.app/
-   - Hábitos: https://gabrielcaetano-habits.vercel.app/
-   - Filme Arremessando Alto: https://gabrielcaetano-arremessando-alto.vercel.app/
-   - Jogos e lives de entretenimento: https://gabrielcaetanonlwrocketseat.vercel.app/
-   - Desafio Frontend Mentor: https://gabrielcaetano-qr-code-component.vercel.app/
-   - Calendário da copa: https://gabrielcaetano-nlw-copa.vercel.app/
+   - 🐄 [Cadastro de animais e pesagens](https://gabrielcaetano.000webhostapp.com/index.php)
+   - 🔢 [Calculadora](https://gabrielcaetanocalculadora.vercel.app/)
+   - 🔑 [Gerador de senha](https://gabrielcaetano-gerador-de-senha.vercel.app/)
+   - 💳 [Cadastro de cartão](https://gabrielcaetano-explorer-lab-01.vercel.app/)
+   - ⚖ [Hábitos](https://gabrielcaetano-habits.vercel.app/)
+   - 🍿 [Filme Arremessando Alto](https://gabrielcaetano-arremessando-alto.vercel.app/)
+   - 🎮 [Jogos e lives de entretenimento](https://gabrielcaetanonlwrocketseat.vercel.app/)
+   - 📱 [Desafio Frontend Mentor](https://gabrielcaetano-qr-code-component.vercel.app/)
    
+<br>
+
 ### 🌐 Redes 
 <div> 
   <a href="https://www.instagram.com/gdepaulacaetano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielcaetanolinkedin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-paula-caetano-531861240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GabrielCaetano13/GabrielCaetano13/blob/output/github-contribution-grid-snake.svg)
+ 
+ <!-- ![Snake animation](https://github.com/GabrielCaetano13/GabrielCaetano13/blob/output/github-contribution-grid-snake.svg) -->
 </div>
+

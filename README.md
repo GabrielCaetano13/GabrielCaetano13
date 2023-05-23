@@ -11,11 +11,13 @@
   <div style="display: inline_block">
      <img align="center" title="HTML" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" title="CSS" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <img align="center" title="Sass" alt="Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+     <img align="center" title="Sass" alt="Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
      <img align="center" title="Bootstrap" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
      <img align="center" title="JavaScript" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" title="TypeScript" alt="Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
      <img align="center" title="Figma" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   </div>
+  <hr />
   
   ### Back-End: <br>
   <div style="display: inline_block">
@@ -23,15 +25,16 @@
      <img align="center" title="MySql" alt="MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
      <img align="center" title="Python" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </div>
+  <hr />
   
   ### Versionamento: <br>
   <div style="display: inline_block">
      <img align="center" title="Git" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
      <img align="center" title="GitHub" alt="GitHub" height="50"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
   </div>
+  <hr />
 
-
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 

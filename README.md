@@ -1,8 +1,8 @@
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja bem vindo(a) ao meu perfil</h1>
 
-- 🔥 Desenvolvedor Web
+- 🔥 Estagiando na [IPlanus](http://www.iplanus.com.br/portal/), exercendo as funções de Engenhreito de Banco de Dados e Desenvolvedor Back-End Júnior!
 
-- 🔭 Cursando o 3° período de Análise e Desenvolvimento de sistemas
+- 🔭 Cursando o 4° período de Análise e Desenvolvimento de sistemas
 
 <br>
 

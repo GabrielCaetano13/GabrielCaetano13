@@ -42,6 +42,8 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielcaetano13&show_icons=true&theme=vision-friendly-dark" alt="gabriel's stats"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaetano13&layout=compact&theme=vision-friendly-dark" alt="gabriel's most used languages"/>
+  ![Total de Repositórios](https://img.shields.io/github/repo-count/gabrielcaetano13/gabrielcaetano13)
+  ![Total de Seguidores](https://img.shields.io/github/followers/gabrielcaetano13?label=Seguidores)
 </p>
 
 <br>

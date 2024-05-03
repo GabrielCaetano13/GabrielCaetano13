@@ -2,10 +2,7 @@
 
 - 🔥 Estagiando na [IPlanus](http://www.iplanus.com.br/portal/), exercendo as funções de Engenheiro de Banco de Dados e Desenvolvedor Back-End Júnior!
 
-- 🔭 Cursando o 4° período de Análise e Desenvolvimento de Sistemas
-
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/GabrielCaetano13?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
-
+- 🔭 Cursando o 5° e último período de Análise e Desenvolvimento de Sistemas
 
 <br>
 
@@ -42,9 +39,16 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielcaetano13&show_icons=true&theme=vision-friendly-dark" alt="gabriel's stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaetano13&layout=compact&theme=vision-friendly-dark" alt="gabriel's most used languages"/>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielCaetano13&theme=vision-friendly-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <img width="41%" height="52%" src="https://github-readme-stats.vercel.app/api?username=gabrielcaetano13&show_icons=true&theme=vision-friendly-dark" alt="gabriel's stats"/>
+  <img width="34%" height="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaetano13&layout=compact&theme=vision-friendly-dark" alt="gabriel's most used languages"/>
 </p>
 
 <br>
@@ -68,7 +72,10 @@
   <a href = "mailto:gabrielcaetanolinkedin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-paula-caetano-531861240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 <!--
   ![Snake animation](https://github.com/GabrielCaetano13/GabrielCaetano13/blob/output/github-contribution-grid-snake.svg) 
 -->
+
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/GabrielCaetano13?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=vision-friendly-dark) 
  

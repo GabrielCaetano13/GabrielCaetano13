@@ -63,8 +63,11 @@
 </p>
 
 <br>
+
 ### 💻 [Portfólio](https://gabrielcaetano-portifolio.vercel.app/)
+
 <br>
+
 ## Conheça alguns exercícios:
 
 - 🧾 [Controle de estoque](https://gabrielcaetano-react-stock.vercel.app/)   

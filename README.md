@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9CAFD9&height=120&section=header">
+
 <h1 align="left">Olá, Seja bem-vindo(a) ao meu perfil</h1>
 
 - 🔥 Estagiando na [IPlanus](http://www.iplanus.com.br/portal/), exercendo as funções de Engenheiro de Banco de Dados e Desenvolvedor Back-End Júnior!
@@ -81,6 +83,8 @@
   <a href = "mailto:gabrielcaetanolinkedin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-paula-caetano-531861240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9CAFD9&height=120&section=footer">
 
 <!--
   ![Snake animation](https://github.com/GabrielCaetano13/GabrielCaetano13/blob/output/github-contribution-grid-snake.svg) 

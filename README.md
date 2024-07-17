@@ -2,9 +2,8 @@
 
 <h1 align="left">Olá, Seja bem-vindo(a) ao meu perfil</h1>
 
-- 🔥 Estagiando na [IPlanus](http://www.iplanus.com.br/portal/), exercendo as funções de Engenheiro de Banco de Dados e Desenvolvedor Back-End Júnior!
-
-- 🔭 Cursando o 5° e último período de Análise e Desenvolvimento de Sistemas
+- 🔥 Graduado em Análise e Desenvolvimento de Sistemas!
+  
 <br>
 
 ## 🚀 Tecnologias
